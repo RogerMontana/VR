@@ -17,12 +17,14 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "publish": "npm run build && gh-pages -d build"
+    "publish": "npm run build && gh-pages -d build",
+    "deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/RogerMontana/VR.git"
   },
+  "homepage": "http://roger_vr.github.io/vrapp",
   "keywords": [
     "aframe",
     "react",
