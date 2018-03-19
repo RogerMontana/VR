@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git+https://github.com/RogerMontana/VR.git"
   },
-  "homepage": "http://RogerMontana.github.io",
+  "homepage": "https://rogermontana.github.io/react-web-vr-app/",
   "keywords": [
     "aframe",
     "react",
